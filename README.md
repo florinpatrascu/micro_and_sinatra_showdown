@@ -22,7 +22,7 @@ A very simple "Hello World" web application with a very basic layout, and includ
 
 ### The results
 
-command used: `ab -n 8000 -kc 50 http://localhost:8080/index.html`, and these are the best out of five runs:
+command used: `ab -n 8000 -kc 50 http://localhost:8080/index.html`, and these are the best results out of five runs:
 
   ![results chart](results/out.png)
 
